@@ -1,0 +1,40 @@
+C:\Users\EV\OneDrive\Escritorio\CaprichoHexagonal\CaprichoHexagonal.Core.Application\bin\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.deps.json
+C:\Users\EV\OneDrive\Escritorio\CaprichoHexagonal\CaprichoHexagonal.Core.Application\bin\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.runtimeconfig.json
+C:\Users\EV\OneDrive\Escritorio\CaprichoHexagonal\CaprichoHexagonal.Core.Application\bin\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.runtimeconfig.dev.json
+C:\Users\EV\OneDrive\Escritorio\CaprichoHexagonal\CaprichoHexagonal.Core.Application\bin\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.dll
+C:\Users\EV\OneDrive\Escritorio\CaprichoHexagonal\CaprichoHexagonal.Core.Application\bin\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.pdb
+C:\Users\EV\OneDrive\Escritorio\CaprichoHexagonal\CaprichoHexagonal.Core.Application\obj\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.csproj.AssemblyReference.cache
+C:\Users\EV\OneDrive\Escritorio\CaprichoHexagonal\CaprichoHexagonal.Core.Application\obj\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EV\OneDrive\Escritorio\CaprichoHexagonal\CaprichoHexagonal.Core.Application\obj\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.AssemblyInfoInputs.cache
+C:\Users\EV\OneDrive\Escritorio\CaprichoHexagonal\CaprichoHexagonal.Core.Application\obj\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.AssemblyInfo.cs
+C:\Users\EV\OneDrive\Escritorio\CaprichoHexagonal\CaprichoHexagonal.Core.Application\obj\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\EV\OneDrive\Escritorio\CaprichoHexagonal\CaprichoHexagonal.Core.Application\obj\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.dll
+C:\Users\EV\OneDrive\Escritorio\CaprichoHexagonal\CaprichoHexagonal.Core.Application\obj\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.pdb
+C:\Users\EV\OneDrive\Escritorio\CaprichoHexagonal\CaprichoHexagonal.Core.Application\obj\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.genruntimeconfig.cache
+C:\Users\EV\OneDrive\Escritorio\CaprichoHexagonal\CaprichoHexagonal.Core.Application\bin\Debug\netcoreapp3.1\CaprichoHexagonal.Adaptors.SQLServerDataAccess.dll
+C:\Users\EV\OneDrive\Escritorio\CaprichoHexagonal\CaprichoHexagonal.Core.Application\bin\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Domain.dll
+C:\Users\EV\OneDrive\Escritorio\CaprichoHexagonal\CaprichoHexagonal.Core.Application\bin\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Infraestructure.dll
+C:\Users\EV\OneDrive\Escritorio\CaprichoHexagonal\CaprichoHexagonal.Core.Application\bin\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Domain.pdb
+C:\Users\EV\OneDrive\Escritorio\CaprichoHexagonal\CaprichoHexagonal.Core.Application\bin\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Infraestructure.pdb
+C:\Users\EV\OneDrive\Escritorio\CaprichoHexagonal\CaprichoHexagonal.Core.Application\bin\Debug\netcoreapp3.1\CaprichoHexagonal.Adaptors.SQLServerDataAccess.pdb
+C:\Users\EV\OneDrive\Escritorio\CaprichoHexagonal\CaprichoHexagonal.Core.Application\obj\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.csproj.CopyComplete
+C:\Users\Ramon Gonzalez\source\repos\CaprichoHexagonalDB-master\CaprichoHexagonal.Core.Application\bin\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.deps.json
+C:\Users\Ramon Gonzalez\source\repos\CaprichoHexagonalDB-master\CaprichoHexagonal.Core.Application\bin\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.runtimeconfig.json
+C:\Users\Ramon Gonzalez\source\repos\CaprichoHexagonalDB-master\CaprichoHexagonal.Core.Application\bin\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.runtimeconfig.dev.json
+C:\Users\Ramon Gonzalez\source\repos\CaprichoHexagonalDB-master\CaprichoHexagonal.Core.Application\bin\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.dll
+C:\Users\Ramon Gonzalez\source\repos\CaprichoHexagonalDB-master\CaprichoHexagonal.Core.Application\bin\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.pdb
+C:\Users\Ramon Gonzalez\source\repos\CaprichoHexagonalDB-master\CaprichoHexagonal.Core.Application\bin\Debug\netcoreapp3.1\CaprichoHexagonal.Adaptors.SQLServerDataAccess.dll
+C:\Users\Ramon Gonzalez\source\repos\CaprichoHexagonalDB-master\CaprichoHexagonal.Core.Application\bin\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Domain.dll
+C:\Users\Ramon Gonzalez\source\repos\CaprichoHexagonalDB-master\CaprichoHexagonal.Core.Application\bin\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Infraestructure.dll
+C:\Users\Ramon Gonzalez\source\repos\CaprichoHexagonalDB-master\CaprichoHexagonal.Core.Application\bin\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Domain.pdb
+C:\Users\Ramon Gonzalez\source\repos\CaprichoHexagonalDB-master\CaprichoHexagonal.Core.Application\bin\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Infraestructure.pdb
+C:\Users\Ramon Gonzalez\source\repos\CaprichoHexagonalDB-master\CaprichoHexagonal.Core.Application\bin\Debug\netcoreapp3.1\CaprichoHexagonal.Adaptors.SQLServerDataAccess.pdb
+C:\Users\Ramon Gonzalez\source\repos\CaprichoHexagonalDB-master\CaprichoHexagonal.Core.Application\obj\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.csproj.AssemblyReference.cache
+C:\Users\Ramon Gonzalez\source\repos\CaprichoHexagonalDB-master\CaprichoHexagonal.Core.Application\obj\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramon Gonzalez\source\repos\CaprichoHexagonalDB-master\CaprichoHexagonal.Core.Application\obj\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.AssemblyInfoInputs.cache
+C:\Users\Ramon Gonzalez\source\repos\CaprichoHexagonalDB-master\CaprichoHexagonal.Core.Application\obj\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.AssemblyInfo.cs
+C:\Users\Ramon Gonzalez\source\repos\CaprichoHexagonalDB-master\CaprichoHexagonal.Core.Application\obj\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ramon Gonzalez\source\repos\CaprichoHexagonalDB-master\CaprichoHexagonal.Core.Application\obj\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.csproj.CopyComplete
+C:\Users\Ramon Gonzalez\source\repos\CaprichoHexagonalDB-master\CaprichoHexagonal.Core.Application\obj\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.dll
+C:\Users\Ramon Gonzalez\source\repos\CaprichoHexagonalDB-master\CaprichoHexagonal.Core.Application\obj\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.pdb
+C:\Users\Ramon Gonzalez\source\repos\CaprichoHexagonalDB-master\CaprichoHexagonal.Core.Application\obj\Debug\netcoreapp3.1\CaprichoHexagonal.Core.Application.genruntimeconfig.cache
